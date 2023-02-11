@@ -27,7 +27,7 @@ Dès qu'on lance le script, il apparaît une boîte de dialogue qui permet de :
 
 Un aperçu de la boîte de dialogue :
 
-METTRE UNE IMAGE
+# METTRE UNE IMAGE
 
 ### II. LES PHRASES / MOTS À SYNTHÉTISER
 Dans le menu déroulant de la boîte de dialogue, il est possible de choisir soit les phrasessuivantes :
