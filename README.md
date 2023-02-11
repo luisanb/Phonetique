@@ -30,13 +30,13 @@ Un aperçu de la boîte de dialogue :
 # METTRE UNE IMAGE
 
 ### II. LES PHRASES / MOTS À SYNTHÉTISER
-Dans le menu déroulant de la boîte de dialogue, il est possible de choisir soit les phrasessuivantes :
+Dans le menu déroulant de la boîte de dialogue, il est possible de choisir soit les phrases suivantes :
 
 ![image](https://user-images.githubusercontent.com/115032201/218250792-7e8e92ad-bfb4-47db-9c5c-8b0de35fd77f.png)
 
 soit les mots de la liste ci-dessous :
 
-les, le, un, une, dans, homme, femme, beau, beaux, est, et, fait, sent, cent, sans, gâteau, gâteaux, pyrénées, vent, vend, voyage,
+![image](https://user-images.githubusercontent.com/115032201/218251684-b42aa68a-3ad3-454d-9503-be9eb68a8ff3.png)
 
 dans laquelle il se trouve des mots grammaticaux et des mots lexicaux.
 
