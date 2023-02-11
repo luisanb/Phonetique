@@ -52,3 +52,5 @@ Afin de le rendre plus organisé, le script a été divisé en sections selon la
 2. Ensuite, on a la création de la boîte de dialogues ;
 3. Dans cette partie, on a le programme proprement dit, qui a été également divisé en : le parcours et le stockage des mots, la concaténation des diphones et, finalement, la manipulation des diphones, où on appelle des procédures ; 
 4. À la fin du script, il y a les procédures qui ont été créées pour la manipulation des diphones : la modification de F0 et de la durée.
+
+(Le texte se trouve aussi sur https://github.com/luisanb/Phonetique pour mieux visualiser)
