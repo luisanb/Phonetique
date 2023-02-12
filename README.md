@@ -27,7 +27,7 @@ Dès qu'on lance le script, il apparaît une boîte de dialogue qui permet de :
 
 Un aperçu de la boîte de dialogue :
 
-# METTRE UNE IMAGE
+![Screenshot from 2023-02-12 10-33-41](https://user-images.githubusercontent.com/115032201/218303626-4fb9d44d-b59d-473b-ac83-6f91117fe0b2.png)
 
 ### II. LES PHRASES / MOTS À SYNTHÉTISER
 Dans le menu déroulant de la boîte de dialogue, il est possible de choisir soit les phrases suivantes :
